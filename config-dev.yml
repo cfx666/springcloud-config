@@ -1,2 +1,2 @@
 eureka:
-  defaultZone: http://eureka7001.com:7001/eureka version=1
+  defaultZone: matste  prod version=1
